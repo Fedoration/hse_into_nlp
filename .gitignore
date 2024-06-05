@@ -159,3 +159,6 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 hw4/small_wikidump.csv
+hw5/glove.6B.100d.txt
+hw5/glove.6B.50d.txt
+hw5/small_wikidump.csv
