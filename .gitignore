@@ -162,3 +162,7 @@ hw4/small_wikidump.csv
 hw5/glove.6B.100d.txt
 hw5/glove.6B.50d.txt
 hw5/small_wikidump.csv
+hw6/small_wikidump.csv
+hw6/word2vec_model
+hw6/word2vec_model.syn1neg.npy
+hw6/word2vec_model.wv.vectors.npy
